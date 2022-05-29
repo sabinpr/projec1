@@ -1,0 +1,83 @@
+[
+  {
+    "sn": 1,
+    "stockName": "RURU",
+    "transactionType": "BUY",
+    "quantity": "200",
+    "amount": "550",
+    "transactionDate": "2022-05-29"
+  },
+  {
+    "sn": 2,
+    "stockName": "NABBC",
+    "transactionType": "BUY",
+    "quantity": "100",
+    "amount": "500",
+    "transactionDate": "2022-05-25"
+  },
+  {
+    "sn": 3,
+    "stockName": "ULBSL",
+    "transactionType": "SELL",
+    "quantity": "100",
+    "amount": "500",
+    "transactionDate": "2022-05-26"
+  },
+  {
+    "sn": 4,
+    "stockName": "UMRH",
+    "transactionType": "SELL",
+    "quantity": "100",
+    "amount": "500",
+    "transactionDate": "2022-05-26"
+  },
+  {
+    "sn": 5,
+    "stockName": "MMFI",
+    "transactionType": "BUY",
+    "quantity": "100",
+    "amount": "500",
+    "transactionDate": "2022-05-26"
+  },
+  {
+    "sn": 6,
+    "stockName": "NICSC",
+    "transactionType": "SELL",
+    "quantity": "100",
+    "amount": "500",
+    "transactionDate": "2022-05-26"
+  },
+  {
+    "sn": 7,
+    "stockName": "PRVOPO",
+    "transactionType": "BUY",
+    "quantity": "100",
+    "amount": "500",
+    "transactionDate": "2022-05-26"
+  },
+  {
+    "sn": 8,
+    "stockName": "MEGA",
+    "transactionType": "SELL",
+    "quantity": "100",
+    "amount": "500",
+    "transactionDate": "2022-05-26"
+  },
+  {
+    "sn": 9,
+    "stockName": "AHPC",
+    "transactionType": "BUY",
+    "quantity": "100",
+    "amount": "500",
+    "transactionDate": "2022-05-26"
+  },
+  {
+    "sn": 10,
+    "stockName": "NABIL",
+    "transactionType": "SELL",
+    "quantity": "100",
+    "amount": "500",
+    "transactionDate": "2022-05-26"
+  }
+  
+]

@@ -1,0 +1,98 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+}
+
+.header {
+  text-align: center;
+  background-color: teal;
+  color: navy;
+  font-family: cursive;
+  font-style: italic;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+  text-align: left;
+  padding: 8px;
+  font-size: 32px;
+}
+
+th {
+  background-color: rgb(117, 201, 250);
+}
+
+td {
+  background-color: rgb(205, 235, 253);
+}
+
+form {
+  display: flex;
+  gap: 5px;
+}
+
+form td:last-child {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+form * {
+  font-size: 28px;
+}
+
+button {
+  padding: 10px 18px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+button:hover {background-color: #3e8e41}
+
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+a{
+  text-decoration: solid;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: rgb(163, 33, 41);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.index {
+  background-color: rgb(94, 166, 127);
+  width: 100%-10px;
+  height: auto;
+  text-align: left;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+a:hover{
+  color: white;
+}
+
+h2{
+  text-align: left;
+  padding-left: 20px;
+  color: rgb(163, 33, 41);
+}
